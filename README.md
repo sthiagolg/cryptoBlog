@@ -1,1 +1,3 @@
+This is my humble site, use it to send crypted messages. Sometimes I blog something readeble, maybe not so readeble...
+
 http://dontucareaboutit.xyz/
